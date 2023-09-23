@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Kamel</h1>
-<h3 align="center">A FCAI Student and Backend Developer in Orange Digital Center Egypt. I am passionate about coding and learning new skills every day. I aim to produce and maintain big projects that are well programmed and well tested.</h3>
+<h3 align="center">Freelance Web Developer. passionate about coding and learning new skills every day. I aim to produce and maintain big projects that are well programmed and well tested.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed22kamel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed22kamel" /> </p>
 
